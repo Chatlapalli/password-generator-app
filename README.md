@@ -65,6 +65,8 @@ Password strength is shown (Weak / Medium / Strong)
 Copy or save passwords using the buttons
 Saved passwords are stored in passwords.txt in the same folder
 
+---
+
 **🔮 Future Improvements**
 
 Dark mode UI
