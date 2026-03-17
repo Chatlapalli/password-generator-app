@@ -13,6 +13,8 @@ This is a Python-based Password Generator application with a graphical user inte
 * Copy password to clipboard
 * Save passwords to file
 * Standalone Windows EXE application
+* Open saved passwords
+* Clear saved passwords
 
 ## 🛠️ Technologies Used
 
