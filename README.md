@@ -30,8 +30,6 @@ This project generates strong passwords, shows their strength, allows copying, a
 
 ---
 
-## 📂 File Structure
-
 ```text
 Password-Generator/
 │
