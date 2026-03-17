@@ -8,10 +8,10 @@ This project generates strong passwords, shows their strength, allows copying, a
 ## 🚀 Features
 
 - Generate strong passwords of any length  
-- Choose to include:
-  - Letters ✅
-  - Numbers ✅
-  - Symbols ✅
+- Choose to include:  
+  - Letters ✅  
+  - Numbers ✅  
+  - Symbols ✅  
 - Password strength indicator (Weak / Medium / Strong)  
 - Copy password to clipboard  
 - Save passwords to a file (`passwords.txt`) in the same folder  
@@ -26,7 +26,9 @@ This project generates strong passwords, shows their strength, allows copying, a
 - Tkinter (GUI)  
 - PyInstaller (for EXE build)  
 - Random module for password generation  
-- OS module for file handling
+- OS module for file handling  
+
+---
 
 ## 📂 File Structure
 
@@ -43,44 +45,62 @@ Password-Generator/
 └── screenshots/
     └── app.png             # Screenshot of app
 
-**▶️ How to Run**
+---
 
-Using Python:
-Clone the repo:
-git clone https://github.com/YourUsername/password-generator-app.git
-cd password-generator-app
-Run the Python script:
-python password_gui.py
-Using EXE:
-Open the dist/ folder
-Run password_gui.exe
-Passwords will be saved in the same folder as the EXE
+## 📸 Screenshot
 
-**🧠 How it Works**
-
-Enter desired password length
-Select options (letters, numbers, symbols)
-Click Generate Password
-Password strength is shown (Weak / Medium / Strong)
-Copy or save passwords using the buttons
-Saved passwords are stored in passwords.txt in the same folder
+![App Screenshot](screenshots/app.png)
 
 ---
 
-**🔮 Future Improvements**
+## ▶️ How to Run
 
-Dark mode UI
-Master password protection
-Encrypt saved passwords
-Add copy-to-clipboard history
+### Using Python:
 
-**👨‍💻 Author**
+1. Clone the repo:
 
-Gayathri Chatlapalli
-GitHub: https://github.com/Chatlapalli
-LinkedIn: www.linkedin.com/in/chvsgayathri-0059161aa
-Email: chvsgayathri@gmail.com
+2. Run the Python script:
 
-**📝 License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
+
+### Using EXE:
+
+1. Open the `dist/` folder  
+2. Run `password_gui.exe`  
+3. Passwords will be saved in the **same folder as the EXE**  
+
+---
+
+## 🧠 How it Works
+
+1. Enter desired password length  
+2. Select options (letters, numbers, symbols)  
+3. Click **Generate Password**  
+4. Password strength is shown (Weak / Medium / Strong)  
+5. Copy or save passwords using the buttons  
+6. Saved passwords are stored in `passwords.txt` in the same folder  
+
+---
+
+## 🔮 Future Improvements
+
+- Dark mode UI  
+- Master password protection  
+- Encrypt saved passwords  
+- Add copy-to-clipboard history  
+
+---
+
+## 👨‍💻 Author
+
+**Gayathri Chatlapalli**  
+- GitHub: [https://github.com/Chatlapalli](https://github.com/Chatlapalli)  
+- LinkedIn: [https://www.linkedin.com/in/chvsgayathri-0059161aa](https://www.linkedin.com/in/chvsgayathri-0059161aa)  
+- Email: chvsgayathri@gmail.com  
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
